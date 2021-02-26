@@ -1,0 +1,8 @@
+El costo por la hamburguesa es:
+1.5
+El total sin cargo:
+4.5
+El cargo es:
+0.225
+El total a pagar es:
+4.725
